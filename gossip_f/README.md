@@ -6,11 +6,11 @@
 
 ## Steps to execute
 1.  Open the command prompt and type **mix run proj2.exs numNodes topology algorithm** 
-  Here,
-     **numNodes** is the number of actors involved
-      **topology** is one of the following- full, line, rand2D, 3D torus, honeycomb or random honeycomb
-      **algorithm** is either gossip or push-sum.  
-    **Output:**  Time taken to converge in milliseconds.
+  Here,  
+     **numNodes** is the number of actors involved.  
+      **topology** is one of the following- full, line, rand2D, 3D torus, honeycomb or random honeycomb.  
+      **algorithm** is either gossip or push-sum.    
+    **Output:**  Time taken to converge in milliseconds.  
     
  
 ## Gossip Algorithm
