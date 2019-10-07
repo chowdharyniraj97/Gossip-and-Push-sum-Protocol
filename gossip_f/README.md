@@ -42,5 +42,4 @@ The Gossip algorithm involves the following:
 
 ## Graphs
 [![Screenshot-26.png](https://i.postimg.cc/Qd80dN5n/Screenshot-26.png)](https://postimg.cc/mtnQdsmQ)
-
 [![Screenshot-27.png](https://i.postimg.cc/hjWmhM6P/Screenshot-27.png)](https://postimg.cc/cKhCb7dV)
