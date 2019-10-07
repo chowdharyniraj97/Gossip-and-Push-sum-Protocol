@@ -1,8 +1,8 @@
 ## Gossip and Push Sum Protocol
 	
 ## Project compiled by
-	Akash Jajoo
 	Niraj Chowdhary
+	Akash Jajoo
 
 ## Steps to execute
 1.  Open the command prompt and type **mix run proj2.exs numNodes topology algorithm** 
